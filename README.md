@@ -174,6 +174,3 @@ The full pipeline — data loading, EDA, splitting, augmentation, training both 
 ## License
 
 Released under the [MIT License](LICENSE).
-=======
-# Garbage-Classification
->>>>>>> 0ae172b36e97b4807fd75d079a52b7c048c2ab45
